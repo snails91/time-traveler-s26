@@ -18,7 +18,7 @@ header {
 	padding: 20px;
 	margin: 40px;
 	background-color: rgb(204, 236, 45);
-	border: 5px  black;
+	border: 5px  rgb(4, 65, 151);
 	border-style: double;
 	border-radius: 50px;
 }
